@@ -176,8 +176,5 @@ npm run preview
 
 ## 16. Author
 
-_Add your name and contact details here._
-
----
-
-Built as part of the CodeAlpha App Development Internship program.
+- **Name:** Hari Srini R
+- **Internship:** CodeAlpha App Development Internship
